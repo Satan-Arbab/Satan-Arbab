@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Satan-Arbab
 - 👀 I’m interested in Gaming,reading books,browsing internet
 - 🌱 I’m currently learning python and java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arbabarham2021@gmail.com
 
 <!---
